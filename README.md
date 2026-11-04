@@ -9,6 +9,17 @@ The kit checks what Google and AI answers (ChatGPT, Gemini, Perplexity, AI Overv
 - The free Personal Brand Kit workbook, a Google Sheet. Get your copy at [fajela.com/personal-brand-kit](https://fajela.com/personal-brand-kit/). It arrives by email with a link that makes your own copy in Google Drive.
 - Claude (the Claude app, or Claude Code).
 
+## Install
+
+In Claude Code:
+
+```
+/plugin marketplace add fajela/personal-brand-kit
+/plugin install fajela-personal-brand-kit@fajela
+```
+
+In the Claude app, add the plugin from the directory once it is listed there.
+
 ## How to start
 
 Ask Claude to start your personal brand kit, or run the `brand-entity` skill, and share your copy of the workbook. The skill then:
