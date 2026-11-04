@@ -1,0 +1,14 @@
+{
+  "name": "fajela",
+  "owner": {
+    "name": "Fajela",
+    "email": "info@fajela.com"
+  },
+  "plugins": [
+    {
+      "name": "fajela-personal-brand-kit",
+      "source": "./",
+      "description": "Personal brand audit and plan for SEO, GEO and AEO, filled with you in Claude."
+    }
+  ]
+}

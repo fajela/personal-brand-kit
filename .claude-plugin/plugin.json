@@ -1,0 +1,15 @@
+{
+  "name": "fajela-personal-brand-kit",
+  "displayName": "Fajela Personal Brand Kit",
+  "version": "1.0.0",
+  "description": "Personal brand audit and plan for SEO, GEO and AEO. Fills the Fajela Personal Brand Kit workbook with you block by block, checks what Google and AI answers say about you, and hands over Person schema and a task plan.",
+  "author": {
+    "name": "Fajela",
+    "email": "info@fajela.com",
+    "url": "https://fajela.com"
+  },
+  "homepage": "https://fajela.com/personal-brand-kit/",
+  "repository": "https://github.com/fajela/personal-brand-kit",
+  "license": "CC-BY-4.0",
+  "keywords": ["personal brand", "personal brand audit", "SEO", "GEO", "AEO", "knowledge panel", "schema", "entity"]
+}
