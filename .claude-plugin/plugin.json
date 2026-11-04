@@ -21,5 +21,9 @@
     "schema",
     "entity"
   ],
-  "icon": ".claude-plugin/icon.png"
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://fajela.com/privacy-policy/",
+  "termsOfServiceUrl": "https://fajela.com/terms-and-conditions/",
+  "supportUrl": "https://github.com/fajela/personal-brand-kit/issues",
+  "documentationUrl": "https://github.com/fajela/personal-brand-kit#readme"
 }
